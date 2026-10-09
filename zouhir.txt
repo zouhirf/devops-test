@@ -1,8 +1,0 @@
-zouhir
-fetah		
-<<<<<<< HEAD
-csc 
-24
-=======
-hoboken
->>>>>>> 2b84e1b1656bfea8c1478fc9f783bd7914210009
